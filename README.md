@@ -1,6 +1,7 @@
 # ng-email-password-validator
 validating email and password in Signup form using Angular
----
+
+
 # Clone and run the project
 1. clone using HTTP or SSH
 2. fire ```npm i``` for installing all the dependencies
